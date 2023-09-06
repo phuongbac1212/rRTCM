@@ -1,0 +1,13 @@
+Package: rRTCM3
+Type: Package
+Title: RTCM3 parser 
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: phuong bac NGUYEN <phuongbac.nguyen.1801@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.10)
+LinkingTo: Rcpp, RcppProgress
